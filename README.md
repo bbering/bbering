@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Breno Bering and i'm from Brazil.
 - 👀 I'm interested on programming and videogames.
-- 🌱 I’m currently at Universidade Estadual do Sudoeste da Bahia (UESB) studying Ciência da Computação.
+- 🌱 I’m currently at Universidade Estadual do Sudoeste da Bahia (UESB) studying Ciência da Computação (Computer Science).
 - 📫 If you want to message me, send me an e-mail on bbering88@gmail.com
 
 <!---
