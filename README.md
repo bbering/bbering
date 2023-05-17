@@ -1,16 +1,29 @@
-### Hi there 👋
+# Howdy-doody? 😉
 
-<!--
-**bbering/bbering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Olá! Meu nome é Breno Bering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Sou estudante de Ciência da Computação na Universidade Estadual do Sudoeste da Bahia (UESB)
+
+
+Sou um aspirante a desenvolvedor FullStack
+<div>
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bbering&show_icons=true&theme=merko"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbering&layout=compact&theme=merko"
+  
+</div>
+  
+## Tecnologias ⚙️
+  
+  <div>
+    <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+    <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+    <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    </div>
+  
+## Conexões 🚀
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbering88@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bbering/)
