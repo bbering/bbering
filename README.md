@@ -10,8 +10,8 @@ Sou estudante de Ciência da Computação na Universidade Estadual do Sudoeste d
 Sou um aspirante a desenvolvedor FullStack
 <div>
 
-  <img align= "center" height="170em" src="https://github-readme-stats.vercel.app/api?username=bbering&show_icons=true&theme=merko"/>
-  <img align= "center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbering&layout=compact&theme=merko"\>
+  <img align= "center" height="150em" src="https://github-readme-stats.vercel.app/api?username=bbering&show_icons=true&theme=merko"/>
+  <img align= "center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbering&layout=compact&theme=merko"\>
   
 </div>
   
