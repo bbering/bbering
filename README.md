@@ -7,7 +7,7 @@ Olá! Meu nome é Breno Bering
 Sou estudante de Ciência da Computação na Universidade Estadual do Sudoeste da Bahia (UESB)
 
 
-Sou um aspirante a desenvolvedor FullStack
+Sempre aprendendo mais sobre Backend!
 <div>
 
   <img align= "center" height="150em" src="https://github-readme-stats.vercel.app/api?username=bbering&show_icons=true&theme=merko"/>
