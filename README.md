@@ -22,6 +22,7 @@ Sou um aspirante a desenvolvedor FullStack
     <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
     <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
     <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg"/>
     </div>
   
 ## Conexões 🚀
